@@ -1,0 +1,11 @@
+{
+    "name": "ELLIE Token",
+    "symbol": "ELLIE",
+    "description": "Golden Retriever Life is a community of people who enjoy fun-loving content and training tips featuring Kevin and his adorable dogs, Ellie and Emma.",
+    "image": "https://raw.githubusercontent.com/GoldenRetrieverLife/assests/main/logo.png",
+    "creator": {
+        "name": "Golden Retriever ELLIE Token",
+        "site": "https://grttoken.com"
+    },
+    "external_url": "https://www.grttoken.com" 
+  }
